@@ -16,6 +16,10 @@ p {
     margin: 5px;
 }
 
+img {
+    border-radius: 0.5em;
+}
+
 .bold {
     font-weight: 700;
 }
@@ -24,7 +28,7 @@ p {
     background-color: white;
     display: flex;
     flex-direction: column;
-    border-radius: 0.5em;
+    border-radius: 0.75em;
     width: 200px;
     padding: 10px;
     margin: 100px auto;
