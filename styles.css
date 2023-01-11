@@ -3,3 +3,29 @@
     --mygrayishblue: hsl(220, 15%, 55%);
     --mydarkblue: hsl(218, 44%, 22%);
 }
+
+body {
+    background-color: var(--mylightgray);
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}
+
+p {
+    margin: 5px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+#qr-container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 0.5em;
+    width: 200px;
+    padding: 10px;
+    margin: 0 auto 150px;
+}
