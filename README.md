@@ -29,8 +29,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/borowski/borowski.github.io)
-- Live Site URL: [GitHub Pages](https://borowski.github.io/)
+- Solution URL: [GitHub](https://github.com/borowski/fementor-QR-code-challenge)
+- Live Site URL: [GitHub Pages](https://borowski.github.io/fementor-QR-code-challenge/)
 
 ## My process
 
