@@ -66,4 +66,4 @@ I'd also like to go back and clean up my CSS, which accounted for the bulk of th
 ## Author
 
 - Website - [Chris Borowski](https://www.github.com/borowski)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/borowski)
+- Frontend Mentor - [@borowski](https://www.frontendmentor.io/profile/borowski)
