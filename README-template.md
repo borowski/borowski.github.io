@@ -29,7 +29,7 @@ Mobile:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/borowski/fementor-qr-code-component)
+- Solution URL: [GitHub](https://github.com/borowski/borowski.github.io)
 - Live Site URL: [GitHub Pages](https://borowski.github.io/)
 
 ## My process
