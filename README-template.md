@@ -50,24 +50,6 @@ As a result, much of what I did here was new to me. It was fun playing around wi
 
 That defnitely made me more comfortable with that style of work, which I gather is a pretty basic requirement for modern web dev with a team. Overall, I'd say this was a pretty well-designed challenge for a beginner like me.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 The main sticking point for me here was downloading Google's "Outfit" web font and using the correct weights, as indicated in the style guide. I failed to get the 100 weighting for the font working, which would should have lightened up the second paragraph of text inside the QR component.
